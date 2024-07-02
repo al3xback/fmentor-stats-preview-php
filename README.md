@@ -10,10 +10,6 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Links
-
-- Live Site URL: -
-
 ## My process
 
 ### Built with
